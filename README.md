@@ -1,4 +1,4 @@
-# Stability and churn in the contemporary regulatory state
+## Stability and churn in the contemporary regulatory state
 
 1. Python script for assessing how frequently regulations change.
 
